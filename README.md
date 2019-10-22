@@ -1,2 +1,2 @@
-# image_segmentation_using_neural_network
-Segmentation d'image en utilisant un réseau de neurone
+# image_segmentation_using_U-Net_neuronal_network
+Find the nuclei in divergent images to advance medical discovery using U-Net architecture
