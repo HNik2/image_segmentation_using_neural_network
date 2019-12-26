@@ -1,2 +1,2 @@
-# image_segmentation_using_U-Net_neural_network
-Find the nuclei in divergent images to advance medical discovery using U-Net architecture
+# sift_detector
+oject detector using SIFT and opencv
